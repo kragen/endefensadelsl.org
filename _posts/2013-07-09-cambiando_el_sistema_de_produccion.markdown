@@ -322,6 +322,9 @@ pp. 220-221).
 Changing eras
 -------------
 
+Eras cambiantes
+---------------
+
 It is not only capitalism’s industrial bases that are weakened, digital
 costlessness directly attacks intellectual property rights, its infinite
 capacity for reproduction providing immediate access to all works, an access
@@ -344,6 +347,32 @@ maintaining obsolete property rights. These are contradictions on which it is
 possible to rely; productive forces that can be mobilised to build a new system
 of production.
 
+No son sólo las bases industriales del capitalismo las que se debilitan,
+la no carestía digital ataca directamente a los derechos de propiedad
+intelectual, al ser su capacidad infinita de reproducción la que provee
+acceso inmediato a todas las obras, un tipo de acceso al que nadie
+quiere renunciar.  Esto pone en peligro a las industrias culturales (y
+ciertamente se quejan lo suficiente) que tendrán que reinventarse.  Es
+en estos términos que se encuentra la oposición más fuerte de la cultura
+digital a la lógica capitalista, a los viejos medios y las corporaciones
+de la música y las películas.  ¡El problema de las descargas divide a las
+generaciones y desata reacciones antilibertarias que se oponen a las
+capacidades de reproducción técnica inherentes a la digitalización y las
+redes!  El fin del modelo industrial representa en efecto el fin del
+sistema de producción capitalista, del trabajo asalariado y de la
+mercantilización de la cultura y la vida.  Por supuesto, por el momento
+y en ausencia de otro sistema más adaptado a la producción inmaterial,
+esta contradicción entre las nuevas fuerzas productivas y las anteriores
+relaciones de producción se traduce en insoportable estrés adicional
+sobre una parte creciente de los trabajadores, en conjunto con el
+incremento de la precariedad y el retroceso del estado de bienestar.
+Por el momento el viejo sistema está tratando de mantenerse a través de
+leyes insostenibles que intentan enfrentar a la innovación tecnológica
+manteniendo ferozmente derechos de propiedad ya obsoletos.  Estas son
+las contradicciones sobre las que es posible descansar; las fuerzas
+productivas que es posible movilizar para construir un nuevo sistema de
+producción.
+
 Make no mistake, neither the crisis, nor the ecological limits, nor our good
 intentions, will be enough to overcome capitalism, but only digital
 technologies, now at the heart of production, as well as the immaterial labor
@@ -354,6 +383,19 @@ and enables a new system of production with new relations of production.
 Admitting the central place of digitality therefore assumes a crucial
 importance in the determination of a strategy for a future-oriented political
 ecology in the age of information.
+
+Pero no hay que equivocarse, ni la crisis ni los límites ecológicos, ni
+siquiera nuestras buenas intenciones serán suficientes para superar el
+capitalismo, sino solamente las tecnologías digitales, ahora el corazón
+de la producción, así como el trabajo inmaterial que empuja la
+reorientación de la economía hacia el desarrollo humano.  Esto no
+significa que las cosas van a suceder por sí mismas, ni necesariamente
+para nuestro provecho si no defendemos nuestros derechos vigorosamente,
+hacia lo que conjure y habilite un nuevo sistema de producción con
+nuevas relaciones de producción.  Admitir el lugar central de la
+digitalidad por lo tanto asume una importancia crucial en la
+determinación de una estrategia hacia una ecología política en la era de
+la información.
 
 If digital technologies were not sustainable, as some environmentalists
 contend, this would not imply their disappearance but would only reserve them
@@ -367,6 +409,20 @@ an increase in costs (there is no energy shortage, the problem is that fossil
 fuels, oil and coal, are too abundant and their prices were too low so far,
 thus constituting an obstacle to renewable energy).
 
+Si las tecnologías digitales no fueran sostenibles, como sostienen
+algunos ambientalistas, esto no significará su desaparición sino que las
+reserverá para una élite en los procesos productivos.  Sin embargo,
+parecería que estas tecnologías se están difundiendo a una velocidad
+antes desconocida, incluso en los países más pobres cuya infraestructura
+es inexistente.  Resulta por lo tanto urgente reducir su consumo y
+volverlas sostenibles porque es cierto que no podemos continuar por esa
+pendiente, ni confiar que el mercado tomará en cuenta problemas
+ambientales que la mayor parte de las veces se traducen en un incremento
+de los costos (no hay crisis energética, el problema es que los
+combustibles fósiles, el petróleo y el carbón, son tan abundantes y
+baratos hasta el momento que constituyeron un obstáculo para las
+energías renovables.)
+
 Even if the battle is not won in advance, there is nothing here that seems out
 of reach, as digitality is one of the essential bases of ecological
 consciousness and global regulation. In addition dematerialisation can make a
@@ -376,6 +432,17 @@ capacity for decentralisation, which have long been implemented in
 corporations. No future ecology can do without, which implies caring about
 their sustainability, reducing waste and guiding them towards energy
 efficiency.
+
+Aun cuando la batalla no está ganada de antemano, no hay nada que esté
+fuera del alcance, porque la digitalidad es una de las bases esenciales
+de la conciencia ecológica y la regulación global.  Además, la
+desmaterialización puede realizar una contribución decisiva para un
+decrecimiento material necesario a muchas áreas.  Entonces, sabamos que
+las redes digitales pueden facilitar la relocalización grcias a su
+capacidad para la decentralización, que han sido implementadas hace
+tiempo en las corporaciones.  Ninguna ecología futura puede ser
+independiente de esto, lo que implica preocuparse por su sostenibilidad,
+reducción de desechos y orientación hacia la eficiencia energética.
 
 Creating a system
 -----------------
